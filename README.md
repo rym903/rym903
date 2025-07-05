@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+https://rym903.github.io/rym903/
+I'm a software engineer with a passion for building innovative solutions. I love working with Python, JavaScript, and various web technologies.
+I'm always eager to learn new things and improve my skills. Feel free to check out my projects and reach out if you'd like to collaborate or just chat about tech!
+
 <!--
 **rym903/rym903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
